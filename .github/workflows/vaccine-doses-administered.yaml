@@ -18,7 +18,7 @@ jobs:
           python-version: 3.8
       
       - name: Install dependencies
-        uses: .github/actions/install-pipenv
+        uses: actions/install-pipenv
 
       - name: Run
         run: make -f ./vaccine-doses-administered/Makefile
@@ -26,7 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit
-        uses: .github/actions/commit
+        uses: actions/commit
         if: always()
         with:
             message: vaccines-doses-administered scrape
