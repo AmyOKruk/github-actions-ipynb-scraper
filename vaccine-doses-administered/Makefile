@@ -5,7 +5,7 @@ MAKENAME = vaccine-doses-administered
 
 scrape: ## Scrape data files. Example: make -f ./vaccines-doses-administered/Makefile
 	$(call start,$(MAKENAME))
-	$(call jupyter,./vaccine-doses-administered/ca-vac-scrape.ipynb)
+	$(call jupyter,./vaccine-doses-administered/scrape.ipynb)
 	$(call finish)
 
 help: ## Show this help. Example: make -f ./vaccines-doses-on-hand/Makefile help
