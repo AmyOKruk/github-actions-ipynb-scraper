@@ -1,11 +1,17 @@
 # -*- coding: utf-8 -*-
 """
 A command-line interface for running Jupyter Notebooks.
+
 Usage: run.py [OPTIONS] [NOTEBOOK_PATHS]...
+
     Executes Jupyter Notebooks from the command line.
+
     Expects one or more file paths input as arguments.
+
     Errors are raised and printed to the console.
+
     Example:
+
         $ python run.py ./src/notebooks.ipynb
     
     Options:
@@ -24,9 +30,13 @@ from nbconvert.preprocessors import CellExecutionError
 def main(notebook_paths):
     """
     Executes Jupyter Notebooks from the command line.
+
     Expects one or more file paths input as arguments.
+
     Errors are raised and printed to the console.
+
     Example:
+
         $ python run.py ./src/notebooks.ipynb
     """
     for path_string in notebook_paths:
