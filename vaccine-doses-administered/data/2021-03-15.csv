@@ -1,60 +1,60 @@
 location,doses
-California,11785750
-Alameda,565601
-Alpine,731
-Amador,12459
-Butte,68793
-Calaveras,14485
-Colusa,4753
-Contra Costa,411455
-Del Norte,5396
-El Dorado,55366
-Fresno,245443
-Glenn,7433
-Humboldt,39983
-Imperial,35651
-Inyo,7296
-Kern,181002
-Kings,21405
-Lake,17109
-Lassen,5286
-Los Angeles,2856523
-Madera,34918
-Marin,113077
-Mariposa,3351
-Mendocino,37185
-Merced,55000
-Modoc,3223
-Mono,8347
-Monterey,100061
-Napa,57461
-Nevada,32022
-Orange,965794
-Placer,138710
-Plumas,5701
-Riverside,596507
-Sacramento,378415
-San Benito,12954
-San Bernardino,456733
-San Diego,1239963
-San Francisco,325975
-San Joaquin,166402
-San Luis Obispo,93159
-San Mateo,287810
-Santa Barbara,122221
-Santa Clara,558213
-Santa Cruz,106587
-Shasta,38505
-Sierra,1676
-Siskiyou,13653
-Solano,110679
-Sonoma,185177
-Stanislaus,140598
-Sutter,24986
-Tehama,12297
-Trinity,2863
-Tulare,101265
-Tuolumne,20573
-Ventura,255389
-Yolo,68733
-Yuba,12429
+California,2182300
+Alameda,731
+Alpine,12459
+Amador,68793
+Butte,14485
+Calaveras,4753
+Colusa,411455
+Contra Costa,5396
+Del Norte,55366
+El Dorado,245443
+Fresno,7433
+Glenn,39983
+Humboldt,35651
+Imperial,7296
+Inyo,181002
+Kern,21405
+Kings,17109
+Lake,5286
+Lassen,2856523
+Los Angeles,34918
+Madera,113077
+Marin,3351
+Mariposa,37185
+Mendocino,55000
+Merced,3223
+Modoc,8347
+Mono,100061
+Monterey,57461
+Napa,32022
+Nevada,965794
+Orange,138710
+Placer,5701
+Plumas,596507
+Riverside,378415
+Sacramento,12954
+San Benito,456733
+San Bernardino,1239963
+San Diego,325975
+San Francisco,166402
+San Joaquin,93159
+San Luis Obispo,287810
+San Mateo,122221
+Santa Barbara,558213
+Santa Clara,106587
+Santa Cruz,38505
+Shasta,1676
+Sierra,13653
+Siskiyou,110679
+Solano,185177
+Sonoma,140598
+Stanislaus,24986
+Sutter,12297
+Tehama,2863
+Trinity,101265
+Tulare,20573
+Tuolumne,255389
+Ventura,68733
+Yolo,12429
+Yuba,2248120
